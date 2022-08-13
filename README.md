@@ -1,5 +1,6 @@
 # WebGL_AssetBundleTest
-S3
+-- S3 --
+
 버킷정책
 
 {
